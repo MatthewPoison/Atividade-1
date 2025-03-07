@@ -16,40 +16,4 @@ Este repositório foi desenvolvido utilizando as seguintes tecnologias:
 Java 17 ☕
 Spring Boot 🌱
 Maven ⚙️
-Postman (para testes) 📡
-📂 Estrutura do Projeto
-css
-Copiar
-Editar
-📦 atividade-1-java-spring
- ┣ 📂 src
- ┃ ┣ 📂 main
- ┃ ┃ ┣ 📂 java/com/seuusuario/atividade1
- ┃ ┃ ┃ ┣ 📂 controller
- ┃ ┃ ┃ ┣ 📂 service
- ┃ ┃ ┃ ┣ 📂 repository
- ┃ ┃ ┃ ┗ 📂 model
- ┃ ┃ ┣ 📂 resources
- ┃ ┃ ┃ ┗ application.properties
- ┣ 📜 pom.xml
- ┗ 📜 README.md
-▶️ Como Executar
-Clone o repositório
 
-bash
-Copiar
-Editar
-git clone https://github.com/seuusuario/atividade-1-java-spring.git
-cd atividade-1-java-spring
-Execute o projeto
-
-bash
-Copiar
-Editar
-mvn spring-boot:run
-Acesse no navegador
-
-arduino
-Copiar
-Editar
-http://localhost:8080
